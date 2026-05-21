@@ -1,3 +1,0 @@
-/home/archlinux/Desktop/Programming/CSE Project/Chess Engine/build/CMakeFiles/ChessEngine.dir
-/home/archlinux/Desktop/Programming/CSE Project/Chess Engine/build/CMakeFiles/edit_cache.dir
-/home/archlinux/Desktop/Programming/CSE Project/Chess Engine/build/CMakeFiles/rebuild_cache.dir
